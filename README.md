@@ -2,4 +2,4 @@
 Aplikasi "Kapalzy"
 
 #Demo_Video
-[![Watch the video]()](https://youtube.com/shorts/LgiDCpakfnk?feature=share)
+[![Watch the video](Display.png)](https://youtube.com/shorts/LgiDCpakfnk?feature=share)
