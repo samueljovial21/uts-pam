@@ -1,0 +1,61 @@
+[
+    {
+        "id" : "0",
+        "awal" : "Bakahueni, Lampung",
+        "akhir" : "Belawan, Sumatera Utara",
+        "layanan" : "Ekonomi",
+        "tanggal" : "28/03/2022",
+        "waktu" : "18:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 1,
+        "harga" : 50000,
+    },
+
+    {
+        "id" : "1",
+        "awal" : "Kuala Tanjung, Batubara, Sumatera Utara",
+        "akhir" : "Semayang, Balikpapan",
+        "layanan" : "Ekonomi",
+        "tanggal" : "25/03/2022",
+        "waktu" : "08:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 3,
+        "harga" : 60000,
+    },
+
+    {
+        "id" : "2",
+        "awal" : "Tanjung Priok, Jakarta",
+        "akhir" : "Pare Pare, Sulawesi Selatan",
+        "layanan" : "Bisnis",
+        "tanggal" : "30/03/2022",
+        "waktu" : "20:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 2,
+        "harga" : 80000,
+    },
+
+    {
+        "id" : "3",
+        "awal" : "Tanjung Priok, Jakarta",
+        "akhir" : "Belawan, Sumatera Utara",
+        "layanan" : "Kelas Pertama",
+        "tanggal" : "01/04/2022",
+        "waktu" : "09:00",
+        "kategori" : "Dewasa",
+        "jumlah" : 2,
+        "harga" : 85000,
+    },
+
+    {
+        "id" : "4",
+        "awal" : "Kuala Tanjung, Batubara, Sumatera Utara",
+        "akhir" : "Pare Pare, Sulawesi Selatan",
+        "layanan" : "Ekonomi",
+        "tanggal" : "02/04/2022",
+        "waktu" : "15:00",
+        "kategori" : "Anak-anak",
+        "jumlah" : 1,
+        "harga" : 90000,
+    },
+]
